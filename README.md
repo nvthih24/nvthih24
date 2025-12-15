@@ -37,10 +37,12 @@
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <br/>
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
 </p>
 
 ---
@@ -54,5 +56,5 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nvthih24&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=nvthih24&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
 </p>
