@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvthih24&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=nvthih24&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
 </p>
