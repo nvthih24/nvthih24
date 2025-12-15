@@ -1,20 +1,22 @@
-# Hi there, I'm Nguyen Van Thinh! 👋
-<!--
-**nvthih24/nvthih24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Tên của ông]! 👋
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **[Tên dự án đang làm]**
+- 🌱 I’m currently learning **[Ngôn ngữ/Công nghệ mới]**
+- 👯 I’m looking to collaborate on **[Loại dự án mong muốn]**
+- 💬 Ask me about **[Kỹ năng sở trường của ông]**
+- 📫 How to reach me: **[Email của ông]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
+---
 
 ### 📊 GitHub Stats
 <p align="left">
