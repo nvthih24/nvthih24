@@ -7,33 +7,29 @@
 ---
 
 <table border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        Currently, I am a student passionate about Mobile Development.
-      </p>
-        
-      - 🔭 I’m currently working on <b>AgriTrace-Mobile</b>
-      - 🌱 I’m currently learning <b>Blockchain & Advanced Flutter</b>
-      - 👯 I’m looking to collaborate on <b>Open Source Mobile Apps</b>
-      - ⚡ Fun fact: <b>Code 12 tiếng được nhưng không thể thiếu cà phê! ☕</b>
-      
-      <br />
-      <b>📫 Connect with me:</b>
-      <br />
-      <a href="mailto:nguyenvanthinh3434mc2@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-    </td>
-    <td width="45%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=nvthih24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" />
-      <br/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvthih24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top langs" />
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+<h3>👨‍💻 About Me</h3>
+<p>Currently, I am a student passionate about Mobile Development.</p>
+
+- 🔭 I’m currently working on <b>AgriTrace-Mobile</b>
+- 🌱 I’m currently learning <b>Blockchain & Advanced Flutter</b>
+- 👯 I’m looking to collaborate on <b>Open Source Mobile Apps</b>
+- ⚡ Fun fact: <b>Code 12 tiếng được nhưng không thể thiếu cà phê! ☕</b>
+
+<br />
+<b>📫 Connect with me:</b>
+<br />
+<a href="mailto:nguyenvanthinh3434mc2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</td>
+<td width="45%" valign="top">
+<h3>📊 GitHub Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=nvthih24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" />
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvthih24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top langs" />
+</td>
+</tr>
 </table>
 
 ---
@@ -42,10 +38,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  
   <br/>
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
