@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/USERNAME" target="_blank">NguyenVanThinh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/nvthih24" target="_blank">Nguyen Van Thinh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=435&lines=Mobile+Developer;Flutter+Enthusiast;Forever+Learner" alt="Typing SVG" />
@@ -14,11 +14,11 @@
         Currently, I am a student passionate about Mobile Development.
       </p>
         
-      - 🔭 I’m currently working on **[Tên dự án lớn của ông, ví dụ: 3TML Farm]**
-      - 🌱 I’m currently learning **Blockchain & Advanced Flutter**
-      - 👯 I’m looking to collaborate on **Open Source Mobile Apps**
-      - ⚡ Fun fact: **Tôi có thể code 12 tiếng nhưng không thể sống thiếu cà phê! ☕**
-      - 📫 How to reach me: **email@example.com**
+      - 🔭 I’m currently working on AgriTrace-Mobile
+      - 🌱 I’m currently learning Blockchain & Advanced Flutter
+      - 👯 I’m looking to collaborate on Open Source Mobile Apps
+      - ⚡ Fun fact: Tôi có thể code 12 tiếng nhưng không thể sống thiếu cà phê! ☕
+      - 📫 How to reach me: nguyenvanthinh3434mc2@gmail.com
     </td>
     <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
@@ -50,9 +50,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Tên Dự Án 1]** | Mô tả ngắn: Ứng dụng truy xuất nguồn gốc nông sản... | `Flutter` `Blockchain` |
-| **[Tên Dự Án 2]** | Mô tả ngắn: App thông tin sinh viên HUTECH... | `Dart` `API` |
-| **[Tên Dự Án 3]** | Mô tả ngắn: Game eFootball tool hỗ trợ... | `Python` |
+| AgriTrace-Mobile | Ứng dụng truy xuất nguồn gốc nông sản... | `Flutter` `Blockchain` `Dart`|
 
 ---
 
