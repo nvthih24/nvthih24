@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there, I'm Nguyen Van Thinh! 👋
 <!--
 **nvthih24/nvthih24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical" alt="github stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=radical" alt="top langs" width="45%" />
+</p>
