@@ -7,36 +7,36 @@
 ---
 
 <table border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>Currently, I am a student passionate about Mobile Development.</p>
+<tr>
+<td width="55%" valign="top">
+<h3>👨‍💻 About Me</h3>
+<p>Currently, I am a student passionate about Mobile Development.</p>
 
-      <ul>
-        <li>🔭 I’m currently working on <b>AgriTrace-Mobile</b></li>
-        <li>🌱 I’m currently learning <b>Blockchain & Advanced Flutter</b></li>
-        <li>👯 I’m looking to collaborate on <b>Open Source Mobile Apps</b></li>
-        <li>⚡ Fun fact: <b>Code 12 tiếng được nhưng không thể thiếu cà phê! ☕</b></li>
-      </ul>
+<ul>
+  <li>🔭 I’m currently working on <b>AgriTrace-Mobile</b></li>
+  <li>🌱 I’m currently learning <b>Blockchain & Advanced Flutter</b></li>
+  <li>👯 I’m looking to collaborate on <b>Open Source Mobile Apps</b></li>
+  <li>⚡ Fun fact: <b>Code 12 tiếng được nhưng không thể thiếu cà phê! ☕</b></li>
+</ul>
 
-      <br />
-      <b>📫 Connect with me:</b>
-      <br />
-      <a href="mailto:nguyenvanthinh3434mc2@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-    </td>
+<br />
+<b>📫 Connect with me:</b>
+<br />
+  <a href="mailto:nguyenvanthinh3434mc2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</td>
 
-    <td width="45%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=nvthih24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" />
-      <br/>
-      <br/>
+<td width="45%" valign="top">
+<h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nvthih24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" />
+<br/>
+<br/>
       
-      <h3>📈 Top Languages</h3>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nvthih24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top langs" />
-    </td>
-  </tr>
+<h3>📈 Top Languages</h3>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nvthih24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top langs" />
+</td>
+</tr>
 </table>
 
 ---
