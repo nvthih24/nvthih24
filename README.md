@@ -7,36 +7,37 @@
 ---
 
 <table border="0">
-<tr>
-<td width="55%" valign="top">
-<h3>👨‍💻 About Me</h3>
-<p>Currently, I am a student passionate about Mobile Development.</p>
-
-<ul>
-  <li>🔭 I’m currently working on <b>AgriTrace-Mobile</b></li>
-  <li>🌱 I’m currently learning <b>Blockchain & Advanced Flutter</b></li>
-  <li>👯 I’m looking to collaborate on <b>Open Source Mobile Apps</b></li>
-  <li>⚡ Fun fact: <b>Code 12 tiếng được nhưng không thể thiếu cà phê! ☕</b></li>
-</ul>
-
-<br />
-<b>📫 Connect with me:</b>
-<br />
-  <a href="mailto:nguyenvanthinh3434mc2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</td>
-
-<td width="45%" valign="top">
-<h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nvthih24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" />
-<br/>
-<br/>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>Currently, I am a student passionate about Mobile Development.</p>
+      <ul>
+        <li>🔭 Working on <b>AgriTrace-Mobile</b></li>
+        <li>🌱 Learning <b>Blockchain & Flutter</b></li>
+        <li>👯 Looking for <b>Open Source Apps</b></li>
+        <li>⚡ Fun fact: <b>Code 12h cần có ☕!</b></li>
+      </ul>
       
-<h3>📈 Top Languages</h3>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nvthih24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top langs" />
-</td>
-</tr>
+  <b>📫 Connect with me:</b>
+      <a href="mailto:nguyenvanthinh3434mc2@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+      
+  <br/><br/>
+      
+  <h3>🔥 Streak Stats</h3>
+      <img src="https://streak-stats.demolab.com?user=nvthih24&theme=radical&hide_border=true&bg_color=0D1117" alt="streak stats" width="100%" />
+    </td>
+
+<td width="50%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=nvthih24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" width="100%" />
+      <br/><br/>
+      
+  <h3>📈 Top Languages</h3>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nvthih24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top langs" width="100%" />
+    </td>
+  </tr>
 </table>
 
 ---
