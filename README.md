@@ -22,13 +22,14 @@
 <br />
 <a href="mailto:nguyenvanthinh3434mc2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </td>
-<td width="45%" valign="top">
-<h3>📊 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=nvthih24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" />
-<br/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvthih24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top langs" />
-</td>
+<td width="55%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=nvthih24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" />
+    </td>
+    <td width="45%" valign="top">
+      <h3>📈 Top Languages</h3>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nvthih24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top langs" />
+    </td>
 </tr>
 </table>
 
