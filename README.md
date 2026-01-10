@@ -26,7 +26,7 @@
   <br/><br/>
       
   <h3>🔥 Streak Stats</h3>
-      <img src="https://streak-stats.demolab.com/?user=nvthih24&theme=radical&hide_border=true&background=0D1117" alt="streak stats" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvthih24&theme=radical&hide_border=true&bg_color=0D1117" alt="streak stats" width="100%" />
     </td>
 
   <td width="50%" valign="top">
