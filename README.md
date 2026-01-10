@@ -19,10 +19,11 @@
       </ul>
       
   <b>📫 Connect with me:</b>
+  <b>
       <a href="mailto:nguyenvanthinh3434mc2@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
-      
+</b>      
   <br/><br/>
       
   <h3>🔥 Streak Stats</h3>
