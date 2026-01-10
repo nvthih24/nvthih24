@@ -26,10 +26,10 @@
   <br/><br/>
       
   <h3>🔥 Streak Stats</h3>
-      <img src="https://streak-stats.demolab.com/?user=nvthih24&theme=radical&hide_border=true&bg_color=0D1117" alt="streak stats" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=nvthih24&theme=radical&hide_border=true&background=0D1117" alt="streak stats" width="100%" />
     </td>
 
-<td width="50%" valign="top">
+  <td width="50%" valign="top">
       <h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats-fast.vercel.app/api?username=nvthih24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" width="100%" />
       <br/><br/>
@@ -61,9 +61,3 @@
 | :--- | :--- | :--- |
 | **[AgriTrace-Mobile](https://github.com/nvthih24/AgriTrace-Mobile)** | Ứng dụng truy xuất nguồn gốc nông sản trên nền tảng Blockchain. | `Flutter` `Blockchain` `Dart`|
 | **[offline-task-planner](https://github.com/nvthih24/offline-task-planner)** | Ứng dụng quản lý công việc cá nhân. | `Flutter` `Dart` `Hive`|
-
----
-
-<p align="center">
-  <img src="https://streak-stats.vercel.app/?user=nvthih24&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
-</p>
