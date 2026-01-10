@@ -60,7 +60,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[AgriTrace-Mobile](https://github.com/nvthih24/AgriTrace-Mobile)** | Ứng dụng truy xuất nguồn gốc nông sản trên nền tảng Blockchain. | `Flutter` `Blockchain` `Dart`|
-| **[offline-task-planner](https://github.com/nvthih24/offline-task-planner)** | Ứng dụng quản lý công việc cá nhân. | `Flutter` `Dart`|
+| **[offline-task-planner](https://github.com/nvthih24/offline-task-planner)** | Ứng dụng quản lý công việc cá nhân. | `Flutter` `Dart` `Hive`|
 
 ---
 
