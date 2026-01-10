@@ -18,7 +18,7 @@
         <li>⚡ Fun fact: <b>Code 12h cần có ☕!</b></li>
       </ul>
       
-  <b>📫 Connect with me:\n</b>
+  <b>📫 Connect with me:</b>
       <a href="mailto:nguyenvanthinh3434mc2@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
