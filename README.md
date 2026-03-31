@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/nvthih24" target="_blank">Nguyen Van Thinh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=435&lines=Mobile+Developer;Flutter+Enthusiast;Forever+Learner;UI\UX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=435&lines=Mobile+Developer;Flutter+Enthusiast;Forever+Learner;UX/UI+Designer" alt="Typing SVG" />
 </p>
 
 ---
